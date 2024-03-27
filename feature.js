@@ -1,3 +1,2 @@
-console.log("version 6");
-console.log("conflict 1");
-
+console.log("version 8");
+console.log("conflict 3");

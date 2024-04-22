@@ -1,3 +1,4 @@
-console.log("feature 7");
+console.log("version 10");
+console.log("conflict 5");
 
-console.log("conflict 2");
+

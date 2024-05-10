@@ -1,1 +1,1 @@
-console.log("bugfix1");
+console.log("bugfix2");

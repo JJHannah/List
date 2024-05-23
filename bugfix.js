@@ -1,1 +1,2 @@
-console.log("bugfix9");
+console.log("bugfix10
+            ");

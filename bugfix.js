@@ -1,2 +1,1 @@
-console.log("bugfix10
-            ");
+console.log("bugfix11");

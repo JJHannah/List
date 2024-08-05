@@ -1,2 +1,2 @@
-console.log("change 1");
+console.log("Day 1");
 

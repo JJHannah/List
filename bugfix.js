@@ -1,1 +1,1 @@
-console.log("project-fix-26");
+console.log("challenge-fix-1");

@@ -1,1 +1,1 @@
-console.log("challenge-fix-5");
+console.log("challenge-fix-6");

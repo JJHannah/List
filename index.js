@@ -1,1 +1,1 @@
-console.log("canvas 1");
+console.log("canvas 2");
